@@ -1,7 +1,7 @@
 const config = {
-    nom: "3N5 - Programmation 3",
-    description: "Site du cours de Programmation 3",
-    nomUrl: "3N5-Prog3"
+    nom: "3M5 - Intro à la prog mobile",
+    description: "Site du cours d'introduction à la programmation mobile",
+    nomUrl: "3M5-IntroMobile"
 }
 
 module.exports = config;
