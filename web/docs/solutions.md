@@ -72,7 +72,7 @@ Dans le fichier build.gradle (dans le dossier app), vérifier que
 - on a la dépendance androidTestImplementation 'androidx.test:core:1.1.0'
 - on a la dépendance androidTestImplementation 'androidx.test:runner:1.1.0'
 - la valeur de testInstrumentationRunner est bien "androidx.test.runner.AndroidJUnitRunner"
-- exemple ici : https://github.com/departement-info-cem/3N5-Prog3/tree/main/code/RoomSQL/04-RoomPerformance/app/build.gradle
+- exemple ici : https://github.com/departement-info-cem/3M5-intro-a-la-prog-mobile/tree/main/code/RoomSQL/04-RoomPerformance/app/build.gradle
 
 ## Le projet est "*syncing*" mais tourne en boucle
 
@@ -133,4 +133,3 @@ Assurez-vous d'avoir ajouté les deux lignes de code suivantes
 ## Manifest merger failed: Apps targeting Android 12 and higher are required to specify an explicit value for android: exported when the corresponding component has an intent filter defined
 
 Aller dans le Manifest, ajouter `android:exported="true"` pour votre Activity d'accueil | Exemple : `activity android:name=".MainActivity" android:exported="true"`
-

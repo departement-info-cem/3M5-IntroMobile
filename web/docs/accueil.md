@@ -9,7 +9,7 @@ hide_table_of_contents: true
 
 <Column>
 
-Bienvenue dans 3N5 - Programmation 3! On apprendra à coder en [Kotlin](https://kotlinlang.org), utiliser des librairies, et créer des applications Android.
+Bienvenue dans 3M5 - intro à la prog mobile! On apprendra à coder en [Kotlin](https://kotlinlang.org), utiliser des librairies, et créer des applications Android.
 
 Les cours et les TP sont disponibles dans les onglets **[Cours](cours/1.1-accueil)** et **[Travaux Pratiques](tp/tp1)**.
 

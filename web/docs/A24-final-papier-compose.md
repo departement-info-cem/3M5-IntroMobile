@@ -1,4 +1,4 @@
-# Examen final 3N5 : partie papier
+# Examen final 3M5 : partie papier
 
 ## Layout vers dessin
 
