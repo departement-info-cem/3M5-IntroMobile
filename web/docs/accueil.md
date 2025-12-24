@@ -57,38 +57,38 @@ Pour l'installation à la maison:
 
 Automne 2026
 
-| Séance | Cours                                                                                 | Travaux / examens                                       |
-|--------|---------------------------------------------------------------------------------------|---------------------------------------------------------|
-| 1      | [Plan de cours, premiers projets kotlin](cours/plan-cours)                            | Test 0 : Diagnostic                                     |
-| 2      | [Présentation TP1](cours/presentation-tp1)                                            | TP1: 5%                                                 |
-| 3      | [Impératif](cours/imperatif)                                                          | TP1: 20%                                                |
-| 4      | [Impératif](cours/imperatif-suite)                                                    | TP1: 40%                                                |
-| 5      | [Librairie standard / collections / tierces](cours/librairies)                        | TP1: 50% <br/> Test 1 **poids 6%** kotlin/valeurs/types |
-| 6      | [Intro aux tests (plan de tests, implantation)](cours/intro-tests)                    | TP1: 60%                                                |
-| 7      | [Structurer son code](cours/structurer-code)                                          | TP1: 80%                                                |
-| 8      | [Intégration](cours/integration1)                                                     | TP1 **poids 10%**                                       |
-| 9      | [Formatif pratique](cours/formatif-pratique)                                          |                                                         |
-| 10     | [Examen Intra pratique 20%](cours/examen-intra)                                       | Examen pratique sans IA **poids 12%**                   |
-| 11     | [Intro Android](cours/intro-android)                                                  | TP2: début                                              |
-| 12     | [Activités et navigation](cours/activites-navigation)                                 | TP2: 10%                                                |
-| 13     | [Tiroir de navigation](cours/tiroir-navigation)                                       | TP2: 20%                                                |
-| 14     | [Tiroir de navigation](cours/tiroir-navigation-suite)                                 | TP2: 40% <br/> Test 2 **poids 6%**                      |
-| 15     | [Listes i18n](cours/listes-i18n)                                                      | TP2: 60%                                                |
-| 16     | [Graphique](cours/graphique)                                                          | TP2: 80%                                                |
-| 17     | [Intégration](cours/integration2)                                                     | TP2 **poids 10%**                                       |
-| 18     | [Pile d'appels et exceptions](cours/exceptions)                                       | TP3: début                                              |
-| 19     | [Composable et syntaxe](cours/composable-syntaxe)                                     | TP3:                           10%                      |
-| 20     | [Structurer son code, service et packages](cours/structurer-code-service)             | TP3: 20% <br/> Test 3 **poids 6%**                      |
-| 21     | [Etat](cours/etat)                                                                    | TP3:                30%                                 |
-| 22     | [Etat](cours/etat-suite)                                                              | TP3:       40%                                          |
-| 23     | [Listes (avec des exercices qui mobilise l'état)](cours/listes-etat)                  | TP3:     50%                                            |
+| Séance | Cours                                                                     | Travaux / examens                                       |
+|--------|---------------------------------------------------------------------------|---------------------------------------------------------|
+| 1      | [Plan de cours, premiers projets kotlin](cours/plan-cours)                | Test 0 : Diagnostic                                     |
+| 2      | [Présentation TP1](cours/plan-cours)                                      | TP1: 5%                                                 |
+| 3      | [Impératif](cours/imperatif)                                              | TP1: 20%                                                |
+| 4      | [Impératif](cours/imperatif)                                              | TP1: 40%                                                |
+| 5      | [Librairie standard / collections / tierces](cours/librairies)            | TP1: 50% <br/> Test 1 **poids 6%** kotlin/valeurs/types |
+| 6      | [Intro aux tests (plan de tests, implantation)](cours/intro-tests)        | TP1: 60%                                                |
+| 7      | [Structurer son code](cours/structurer-code)                              | TP1: 80%                                                |
+| 8      | [Intégration](cours/integration1)                                         | TP1 **poids 10%**                                       |
+| 9      | [Formatif pratique](cours/formatif-pratique)                              |                                                         |
+| 10     | [Examen Intra pratique 20%](cours/examen-intra)                           | Examen pratique sans IA **poids 12%**                   |
+| 11     | [Intro Android](cours/intro-android)                                      | TP2: début                                              |
+| 12     | [Activités et navigation](cours/activites-navigation)                     | TP2: 10%                                                |
+| 13     | [Tiroir de navigation](cours/tiroir-navigation)                           | TP2: 20%                                                |
+| 14     | [Tiroir de navigation](cours/tiroir-navigation)                           | TP2: 40% <br/> Test 2 **poids 6%**                      |
+| 15     | [Listes i18n](cours/listes-i18n)                                          | TP2: 60%                                                |
+| 16     | [Graphique](cours/graphique)                                              | TP2: 80%                                                |
+| 17     | [Intégration](cours/integration2)                                         | TP2 **poids 10%**                                       |
+| 18     | [Pile d'appels et exceptions](cours/exceptions)                           | TP3: début                                              |
+| 19     | [Composable et syntaxe](cours/composable-syntaxe)                         | TP3:                           10%                      |
+| 20     | [Structurer son code, service et packages](cours/structurer-code-service) | TP3: 20% <br/> Test 3 **poids 6%**                      |
+| 21     | [Etat](cours/etat)                                                        | TP3:                30%                                 |
+| 22     | [Etat](cours/etat)                                                        | TP3:       40%                                          |
+| 23     | [Listes (avec des exercices qui mobilise l'état)](cours/listes-etat)      | TP3:     50%                                            |
 | 24     | [Tests (tests qui roulent tout seul, pas tout seul, dans la BD fichier)](cours/tests) | TP3:     60%                                            |
-| 25     | [Tests](cours/tests-suite)                                                            | TP3:      70%                                           |
-| 26     | [Copilot et moi](cours/copilot-et-moi)                                                | TP3:  80%                                               |
-| 27     | [Intégration (éjectable)](cours/integration3)                                         | TP3: 90%                                                |
-| 28     | [Intégration](cours/integration-suite)                                                | TP3 **poids 20%**                                       |
-| 29     | [Formatif final](cours/formatif-final)                                                | Test 4 **poids 18%**                                    |
-| 30     | [Examen final 20%](cours/examen-final)                                                | Examen pratique sans IA **poids 12%**                   |
+| 25     | [Tests](cours/tests)                                                      | TP3:      70%                                           |
+| 26     | [Copilot et moi](cours/copilot-et-moi)                                    | TP3:  80%                                               |
+| 27     | [Intégration (éjectable)](cours/integration3)                             | TP3: 90%                                                |
+| 28     | [Intégration](cours/integration-suite)                                    | TP3 **poids 20%**                                       |
+| 29     | [Formatif final](cours/formatif-final)                                    | Test 4 **poids 18%**                                    |
+| 30     | [Examen final 20%](cours/examen-final)                                    | Examen pratique sans IA **poids 12%**                   |
 
 - l'ensemble des TP compte pour 40% de la note finale : TP1 = 10% | TP2 = 10% | TP3 = 20%
 - les examens comptent pour 60% de la note finale :

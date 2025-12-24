@@ -11,7 +11,7 @@ const sidebars = {
     {
       type: "doc",
       label: "2. Présentation TP1",
-      id: "cours/presentation-tp1",
+      id: "cours/plan-cours",
     },
     {
       type: "doc",
@@ -21,7 +21,7 @@ const sidebars = {
     {
       type: "doc",
       label: "4. Impératif",
-      id: "cours/imperatif-suite",
+      id: "cours/imperatif",
     },
     {
       type: "doc",
@@ -71,7 +71,7 @@ const sidebars = {
     {
       type: "doc",
       label: "14. Tiroir de navigation",
-      id: "cours/tiroir-navigation-suite",
+      id: "cours/tiroir-navigation",
     },
     {
       type: "doc",
@@ -111,7 +111,7 @@ const sidebars = {
     {
       type: "doc",
       label: "22. Etat",
-      id: "cours/etat-suite",
+      id: "cours/etat",
     },
     {
       type: "doc",
@@ -126,7 +126,7 @@ const sidebars = {
     {
       type: "doc",
       label: "25. Tests",
-      id: "cours/tests-suite",
+      id: "cours/tests",
     },
     {
       type: "doc",
