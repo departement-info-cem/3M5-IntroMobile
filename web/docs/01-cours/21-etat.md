@@ -1,6 +1,6 @@
 ---
-title: Etat i18n logo
-description: Etat i18n logo
+title: Etat 
+description: Etat 
 hide_table_of_contents: true
 ---
 
@@ -12,11 +12,14 @@ hide_table_of_contents: true
 
 :::tip Avant la séance (2h)
 
+Éclater la recette sur l'état en plusieurs recettes plus petites.
+- état simple sur un nombre entier
+- état sur une liste
+- ou placer l'état quand on a une collection de fonctions composables
+
 Consulter la **[recette sur la gestion de l'état](../recettes/gestion-etat)**.
 
-Consulter la **[recette sur le multilingue](../recettes/multilingue)**.
 
-Consulter la **[recette sur les logo](../recettes/logo)**.
 
 :::
 
@@ -26,7 +29,7 @@ Consulter la **[recette sur les logo](../recettes/logo)**.
 
 :::info Multilingue, locales
 
-On parlera de stratégie pour déterminer quelle sera la locale par défaut, comment fournir une traduction complète (français) ou une traduction partielle (québécois).
+On le met où l'état? Syntaxe.
 
 :::
 
@@ -35,6 +38,12 @@ On parlera de stratégie pour déterminer quelle sera la locale par défaut, com
 </Row>
 
 :::note Exercices de la semaine
+
+## Exercice sur où placer l'état
+
+## Exercice de compréhension
+
+Trace d'exécution avec un état.
 
 ## Exercice Multilingue
 
