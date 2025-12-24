@@ -5,7 +5,7 @@ description: Comment gérer l'état dans les recettes d'application
 
 # Etat dans compose
 
-Le code de cette démo est disponible sur [GitHub ici](https://github.com/departement-info-cem/3M5-intro-a-la-prog-mobile/tree/main/code/ComposeEtat)
+Le code de cette démo est disponible sur [GitHub ici](https://github.com/departement-info-cem/3M5-IntroMobile/tree/main/code/ComposeEtat)
 
 
 ## Exécution et découverte
