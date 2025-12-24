@@ -1,5 +1,6 @@
 ---
 title: Intégration
+id: integration2
 description: Intégration (et révision Git si nécessaire)
 hide_table_of_contents: true
 ---

@@ -62,7 +62,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun ComposantAndroidClassique(modifier: Modifier = Modifier) {
-    val mUrl = "https://info.cegepmontpetit.ca/3N5-Prog3/"
+    val mUrl = "https://info.cegepmontpetit.ca/3M5-IntroMobile/"
     // AndroidView est une fonction composable pour ajouter une vue Android classique.
     AndroidView(
         // factory est une lambda qui fournit un contexte via le paramètre `it`.

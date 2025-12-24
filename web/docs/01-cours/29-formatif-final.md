@@ -10,6 +10,16 @@ hide_table_of_contents: true
 
 Nous allons passer sur une stratégie de base pour passer vos examens: [Stratégie examen](../revision)
 
+## Examen final Automne 2025
+
+<Highlight color="tip">Notez bien que vous aurez accès aux 2 parties seulement en version papier.</Highlight>
+
+Une feuille recto-verso est autorisée pendant la partie papier.
+
+- [Partie 1 : papier](@site/static/A25-final-papier.pdf) Une feuille recto-verso de notes est autorisée pendant la partie papier.
+- [Partie 2 : numérique](@site/static/A25-final-ordi.pdf) Tout le contenu produit pendant le cours autorisé (cours, TP, exercices).
+
+
 ## Examen final (formatif) Automne 2025
 
 <Highlight color="tip">Notez bien que vous aurez accès aux 2 parties seulement en version papier.</Highlight>

@@ -68,7 +68,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "cours/1.1-accueil",
+            docId: "cours/plan-cours",
             position: "left",
             label: "Cours 🧑🏻‍🏫",
           },

@@ -1,12 +1,11 @@
 ---
 title: Intégration
+id: integration3
 description: Intégration (et révision Git si nécessaire)
 hide_table_of_contents: true
 ---
 
 # Intégration 🔨
-
-Au besoin, tu peux réviser les notions sur Git [ici](../git).
 
 <Row>
 
