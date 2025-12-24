@@ -10,6 +10,19 @@ hide_table_of_contents: true
 
 Nous allons passer sur une stratégie de base pour passer vos examens: [Stratégie examen](../revision)
 
+## Examen automne 2025
+
+Examen de 1h40:
+- une [partie papier](@site/static/A25-intra-papier.pdf)
+  - droit à une feuille de notes recto verso manuscrite ou imprimée
+  - aucun ordinateur ou appareil électronique
+  - questions de type trace d'exécution, syntaxe kotlin, types et valeurs ...
+- une [partie pratique](@site/static/A25-intra-ordi.pdf)
+  - commence une fois la partie papier terminée et remise au professeur
+  - droit à tes exercices et notes (repo)
+  - droit à ton TP
+  - produire des projets fonctionnels répondant aux exigences
+
 ## Formatif automne 2025
 
 Cette année l'examen intra aura 2 parties et durera 1h40 (sauf temps supplémentaire):
