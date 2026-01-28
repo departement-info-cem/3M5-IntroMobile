@@ -8,8 +8,7 @@ On va voir comment définir plusieurs écrans et naviguer entre eux.
 
 Le code de cette recette est disponible [ici](https://github.com/departement-info-cem/3M5-IntroMobile/tree/main/code/ComposeNavigation).
 
-<Tabs queryString="recette-navigation-compose">
-  <TabItem value="build.gradle.kts" label="build.gradle.kts">
+## build.gradle.kts
 
     Dans le fichier `build.gradle.kts` de votre module, vous devez ajouter la dépendance pour la navigation Compose.
 
@@ -20,8 +19,7 @@ Le code de cette recette est disponible [ici](https://github.com/departement-inf
             endLine="60"
          />
 
-  </TabItem>
-  <TabItem value="def_routes" label="Définition des routes">
+## Définition des routes
     Pour naviguer il faut utiliser la fonction composable `NavHost` qui permet de définir les routes de l'application.
     <ul>
 
@@ -36,8 +34,7 @@ Le code de cette recette est disponible [ici](https://github.com/departement-inf
         endLine="70"
      />
 
-  </TabItem>
-  <TabItem value="utiliser_routes" label="Utilisation des routes">
+## Utilisation des routes
       Pour utiliser les routes qu'on vient de définir, on va simplement
       appeler la fonction compsable qu'on vient de définir soit Navigation
       dans le `setContent` de l'activité.
@@ -48,9 +45,8 @@ Le code de cette recette est disponible [ici](https://github.com/departement-inf
               startLine="38"
               endLine="48"
            />
-  </TabItem>
 
-  <TabItem value="nav_ecran" label="Naviguer entre écran">
+## Naviguer entre écran
         La navigation va se faire en utilisant le `navController` qu'on a passé:
         <ul>
             <li>on peut naviguer vers une route en utilisant la fonction `navController.navigate("ecranA")`</li>
@@ -64,14 +60,11 @@ Le code de cette recette est disponible [ici](https://github.com/departement-inf
                  startLine="119"
                  endLine="121"
               />
-    </TabItem>
-    <TabItem value="explorer" label="Explorer le code">
+
+## Explorer le code
 
         On t'encourage à explorer le code de l'application pour voir comment les écrans sont définis et comment la navigation est implémentée.
 
         Ajoute des points d'arrêt dans le code pour voir comment la navigation fonctionne en temps réel.
 
         Le code de cette recette est disponible [ici](https://github.com/departement-info-cem/3M5-IntroMobile/tree/main/code/ComposeNavigation).
-
-      </TabItem>
-</Tabs>

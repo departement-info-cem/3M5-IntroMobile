@@ -7,8 +7,7 @@ hide_table_of_contents: true
 Jitpack est une plateforme qui permet de construire, de publier, et d'importer des projets Java sur GitHub.
 Dans notre cas, nous allons nous en servir pour importer des librairies tierces hébergées sur GitHub.
 
-<Tabs queryString="recette-jitpack">
-    <TabItem value="settings.gradle.kts" label="settings.gradle.kts">
+## settings.gradle.kts
 
         Ouvrez le fichier `settings.gradle.kts` de votre projet.
 
@@ -36,8 +35,7 @@ Dans notre cas, nous allons nous en servir pour importer des librairies tierces 
         }
         ````
 
-    </TabItem>
-    <TabItem value="jitpack.com" label="jitpack.com">
+## jitpack.com
 
         La librairie que vous souhaitez obtenir possède plusieurs versions différentes.
 
@@ -47,8 +45,7 @@ Dans notre cas, nous allons nous en servir pour importer des librairies tierces 
 
         L'implémentation choisie sera utilisée à la prochaine étape.
 
-    </TabItem>
-    <TabItem value="build.gradle.kts" label="build.gradle.kts">
+## build.gradle.kts">
 
         Vous pouvez maintenant importer la librairie de votre choix dans le fichier `build.gradle.kts` de votre module.
 
@@ -59,7 +56,3 @@ Dans notre cas, nous allons nous en servir pour importer des librairies tierces 
             implementation("com.github.FabianTerhorst:Isometric:a5b833e1945d8194141ab68d8a0c4b8bff1ff40c")
         }
         ```
-
-    </TabItem>
-
-</Tabs>
